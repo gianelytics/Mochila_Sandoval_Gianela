@@ -1,0 +1,19 @@
+CHEATSHEET GIT GITHUB
+
+- Git init: Inicializa un nuevo repositorio Git en el directorio actual.
+
+- Git clone [url]: Clona un repositorio remoto existente en tu máquina local.
+
+- Git add .: Agrega todos los archivos modificados al área de preparación.
+
+-Git commit -m "mensaje": Crea un nuevo commit con los archivos en el área de preparación y un mensaje descriptivo.
+
+-Git status: Muestra el estado actual del repositorio, incluyendo archivos modificados, agregados o eliminados.
+
+-Git push: Envía los commits locales al repositorio remoto.
+
+-Git pull: Obtiene los cambios más recientes del repositorio remoto y los fusiona con tu rama actual.
+
+git branch: Muestra una lista de ramas en el repositorio y resalta la rama actual.
+
+git checkout [rama]: Cambia a la rama especificada.
